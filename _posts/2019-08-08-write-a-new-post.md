@@ -1,6 +1,6 @@
 ---
 title: write a new post
-date: 2023-10-09-18:10:00
+date: 2023-08-08
 tags:
   - dadsa
 categories:
