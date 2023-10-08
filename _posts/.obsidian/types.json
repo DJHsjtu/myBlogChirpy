@@ -5,6 +5,6 @@
     "tags": "tags",
     "categories": "multitext",
     "author": "text",
-    "date": "datetime"
+    "date": "date"
   }
 }
