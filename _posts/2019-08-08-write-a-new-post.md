@@ -6,5 +6,4 @@ tags:
 categories:
   - Dog
   - cat
-author: dsjh
 ---
