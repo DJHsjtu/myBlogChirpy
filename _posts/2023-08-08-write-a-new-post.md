@@ -6,6 +6,7 @@ tags:
 categories:
   - Dog
   - cat
+pin: "true"
 ---
 
 # 一级标题
