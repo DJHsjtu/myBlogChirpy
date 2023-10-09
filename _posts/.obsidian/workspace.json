@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-08-write-a-new-post.md",
+                "file": "2023-10-09-new-day.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c53ed7a1e1159cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-10-here.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-08-write-a-new-post.md",
+                "file": "2023-10-10-here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-08-write-a-new-post.md",
+                "file": "2023-10-10-here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-08-write-a-new-post.md"
+                "file": "2023-10-10-here.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8e9448562468ec1d",
+  "active": "c53ed7a1e1159cdb",
   "lastOpenFiles": [
     "2023-10-09-new-day.md",
+    "2023-10-10-here.md",
     "2023-08-08-write-a-new-post.md",
     "2019-08-08-write-a-new-post 1.md"
   ]
